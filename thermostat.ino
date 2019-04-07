@@ -13,6 +13,7 @@
  * - Save regulation temperature in EEPROM
  *
  * dejan.rakijasic@gmail.com
+ * I am not responsible for any damage caused by this code and/or electric scheme!
  */
 #include <LiquidCrystal.h>
 #include <DS18B20.h>        //https://github.com/nettigo/DS18B20
